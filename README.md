@@ -1,10 +1,6 @@
 # Touch FPS Controls
 
->Status: Developing ⚠️
-
 >Unity used 2018.3.9f1. 
-
-# https://syr.us/nVv
 
 ### Project developed to teach how to create a touch for 3D games at Unity
 
